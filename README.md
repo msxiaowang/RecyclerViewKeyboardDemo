@@ -1,6 +1,9 @@
 # RecyclerViewKeyboardDemo
 This is a sample app to repro the recyclerview item size issue when keyboard is opened/dismissed.
-Repro steps:
+# System requirement
+only repro on Android API >= 32
+
+# Repro steps:
 1. Launch app
 2. Click EditText to open keyboard
 3. Dismiss keyboard
